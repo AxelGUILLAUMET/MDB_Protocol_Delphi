@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/24 12:25:54.000.677,=C:\Users\Axxel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/24 12:27:38.000.887,Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\MainForm.dfm=C:\Users\Axxel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/02/24 12:27:38.000.887,Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\MainForm.pas=C:\Users\Axxel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/24 12:27:42.000.006,Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\MEI_CF7000.dproj=C:\Users\Axxel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/02/24 12:37:43.000.747,=Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\HWSetting.pas</Transaction>
+    <Transaction>2021/03/12 17:53:38.000.183,=Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 17:54:13.000.585,Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\Unit1.dfm=Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\AboutForm.dfm</Transaction>
+    <Transaction>2021/03/12 17:54:13.000.585,Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\Unit1.pas=Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\AboutForm.pas</Transaction>
+    <Transaction>2021/03/12 19:32:37.000.543,Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\MEI_CF7000.dproj=Q:\Axxel\Fichiers\DropBox Local\Dropbox\Projets Actifs\QuimiPass\Desarrollo\MEI_CF7000\MDB_Delphi_Demo.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
